@@ -1,0 +1,12 @@
+{
+  "name": "browser-cache-experiments",
+  "private": true,
+  "scripts": {
+    "start": "./node_modules/.bin/babel-node ."
+  },
+  "dependencies": {
+    "babel-cli": "^6.2.0",
+    "babel-preset-es2015": "^6.1.18",
+    "express": "^4.13.3"
+  }
+}
